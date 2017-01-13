@@ -1,5 +1,5 @@
 name: Helium Site
-version: "@version@"
+version: "5.4.3"
 description: "The **Helium Skeleton** provides you with sample site powered by the **Gantry Framework**."
 icon: gantry
 author:
